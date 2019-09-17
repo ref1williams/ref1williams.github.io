@@ -12,7 +12,7 @@ title: About me
 ---
 
 ### Why am I taking CSCI 103?
-I have always been interested in taking a computer science course here at Williams and now that it is my senior year, I felt it would be a good idea to take a course and learn about computer science.  CSCI 103 seemed like the perfect class to introduce concepts of computer science in way comfortable format as I have no prior computer science experience. 
+I have always been interested in taking a computer science course here at Williams and now that it is my senior year, I felt it would be a good idea to take a course and learn about computer science.  CSCI 103 seemed like the perfect class to introduce concepts of computer science in comfortable format as I have no prior computer science experience. 
 
 
 
