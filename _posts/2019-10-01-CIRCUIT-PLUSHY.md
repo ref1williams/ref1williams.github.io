@@ -8,4 +8,4 @@ Here is the my alligator clamp prototype: ![Alligator](https://github.com/ref1wi
 The paper prototype: ![Paper](https://github.com/ref1williams/ref1williams.github.io/blob/master/img/papproto.png)
 The front of my plushy: ![Front](https://github.com/ref1williams/ref1williams.github.io/blob/master/img/pfront.png)
 The back: ![Back](https://github.com/ref1williams/ref1williams.github.io/blob/master/img/pback.png)
-One tip I have now is to make sure that your are sewing the different parts of the curcuit with indivisual segments of thread.  Otherwise the switches will not work prooerly.  
+One tip I have now is to make sure that your are sewing the different parts of the circuit with indivisual segments of thread.  Otherwise, the switches will not work prooerly.  
