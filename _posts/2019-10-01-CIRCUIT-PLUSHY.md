@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Circuit Plushy!
+title: Circuit Plushy
 ---
 
 For this project I had to create a basic plushy doll and sew a basic LED ciruit to it, in order to create a circuit plushy.
