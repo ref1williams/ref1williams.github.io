@@ -5,7 +5,7 @@ title: Circuit Plushy
 
 For this project I had to create a basic plushy doll and sew a basic LED ciruit to it, in order to create a circuit plushy.
 Here is the my alligator clamp prototype: 
-test:
+
 ![Alligator](/ref1williams.github.io/img/alligator.png)
 
 ![Alligator](/ref1williams.github.io/blob/master/img/alligator.png)
