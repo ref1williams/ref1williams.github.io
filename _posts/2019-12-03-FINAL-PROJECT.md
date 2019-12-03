@@ -3,7 +3,7 @@ layout: post
 title: Bobby’s R2-D2 Light Up Theme Song Phone Case Locating Device -- Final Project
 ---
 
-For my final project I created a R2-D2 themed phone case that lights up and plays the Star Wars theme sing when it is dark and the switch is on. The LEDs on the front and back alternate flashing.
+For my final project I created a R2-D2 themed phone case that lights up and plays the Star Wars theme song when it is dark and the switch is on. The LEDs on the front and back alternate flashing.
 
 My motivation for this project was to create a device that I could use to locate my phone if I ever lost it.  By using the light sensor to trigger the mechanism I am able to turn the lights off in my room and easily locate my phone through this case.
 
