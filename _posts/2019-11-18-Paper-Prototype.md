@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bobby’s R2-D2 Light Up Theme Song Phone Case Locating Device
+title: Bobby’s Paper Prototype R2-D2 Light Up Theme Song Phone Case Locating Device
 ---
 
 Here is a picture of Paper Prototype set up: 
