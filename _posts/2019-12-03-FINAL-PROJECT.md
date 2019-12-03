@@ -7,6 +7,8 @@ For my final project I created a R2-D2 themed phone case that lights up and play
 
 My motivation for this project was to create a device that I could use to locate my phone if I ever lost it.  By using the light sensor to trigger the mechanism I am able to turn the lights off in my room and easily locate my phone through this case.
 
+Material List: Blue felt, white felt, grey felt, lining fabric, conductive thread, blue embroidery thread, 3 LEDS (white, red, blue), light sensor, buzzer, aurduino board, on-board red led, switch, battery. 
+
 Here is my final Paper Prototype:
 
 ![Paper Prototype](/ref1williams.github.io/img/finalpapproto.jpg)
